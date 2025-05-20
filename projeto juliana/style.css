@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+
+.rodape{
+    background-color:aqua ;
+    position: relative;
+    top: 430px;
+    padding: 5%;
+    
+}
+
+.topo{
+    position: relative;
+    top: -225px;
+    float: right;
+}
+
+.imglogin{
+    position: relative;
+    top: -225px;
+    float: right;
+}
