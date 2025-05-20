@@ -7,7 +7,7 @@ body{
     position: relative;
     top: 430px;
     padding: 5%;
-    
+    gap: 60px;
 }
 
 .topo{
@@ -16,8 +16,3 @@ body{
     float: right;
 }
 
-.imglogin{
-    position: relative;
-    top: -225px;
-    float: right;
-}
